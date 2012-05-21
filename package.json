@@ -1,0 +1,17 @@
+{
+  "name": "shuffle-test",
+  "description": "Outputs a series of random numbers",
+  "version": "0.0.1",
+  "author": "Eric Kryski <e.kryski@gmail.com>",
+  "private": true,
+  "main": "./random.js",
+  "engines": {
+    "node": "~0.6"
+  },
+  "dependencies": {
+    "commander": "*"
+  },
+  "scripts": {
+    "test": "node test.js"
+  }
+}
